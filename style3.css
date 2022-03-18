@@ -1,0 +1,83 @@
+.Images
+{
+    text-align: center;
+}
+#image1
+{
+    height: 325px;
+    width: 200px;
+    border-radius: 8px;
+    border: 2px solid black;
+    
+}
+#image2
+{
+    height: 325px;
+    width: 325px;
+    border-radius: 8px;
+    border: 2px solid black;
+   
+   
+}
+#image3
+{
+    height: 325px;
+    width: 200px;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+#image4
+{
+    height: 325px;
+    width: 225px;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+#image5
+{
+    height: 325px;
+    width: 200px;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+#image6
+{
+    height: 325px;
+    width: 200px;
+    border-radius: 8px;
+    margin-top: 3px;
+    border: 2px solid black;
+    border: 2px solid black;
+}
+#image7
+{
+    height: 325px;
+    width: 200px;
+    border-radius: 8px;
+    margin-top: 3px;
+    border: 2px solid black;
+}
+#image8
+{
+    height: 325px;
+    width: 325px;
+    border-radius: 8px;
+    margin-top: 3px;
+    border: 2px solid black;
+}
+#image9
+{
+    height: 325px;
+    width: 200px;
+    border-radius: 8px;
+    margin-top: 3px;
+    border: 2px solid black;
+}
+.active {
+    color: black;
+    background-color: white;
+}
+.active a
+{
+    color: black!important;
+}

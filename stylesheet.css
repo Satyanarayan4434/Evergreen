@@ -1,0 +1,17 @@
+body{
+    background-color:powderblue;
+}
+h1{
+    background-color:tomato;height: fit-content;width: fit-content;
+    margin: 16px;
+}
+h5{
+    color:black;
+    margin:0px;
+}
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cadetblue;
+    margin: 50px;
+}

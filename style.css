@@ -1,0 +1,116 @@
+body{
+    background-color: aquamarine;
+}
+#navbar{
+    padding-left: 25%;
+    background-color: rgb(129, 127, 127);
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+#navbar ul{
+    list-style: none;
+    display: flex;
+    padding: 10px; 
+    
+}
+#navbar img
+{
+    text-align: right;
+}
+
+#navbar ul li a{
+    display: block;
+    padding: 0px 23px;
+    border-radius: 8px;
+    text-decoration:none;
+    color:white;
+}
+#navbar ul li a:hover{
+    color: black;
+    background-color: white;
+}
+.active {
+    color: black;
+    background-color: white;
+}
+.active a
+{
+    color: black!important;
+}
+
+.home{
+    border-radius: 8px;
+}
+.gl{
+    border-radius: 8px;
+}
+.dl
+{
+    border-radius: 8px;
+}
+.pd
+{
+    border-radius: 8px;
+}
+.au
+{
+    border-radius: 8px;
+}
+#navbar img
+{
+    position: absolute;
+    left: 13px;
+    top: 10px;
+    height: 34px;
+    border-radius: 20px;
+}
+.carousel-inner
+{
+    width: 100%;
+    height: 20rem;
+}
+h1{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+    border-radius: 8px;
+    margin-left: 40%;
+    display: initial;
+}
+table
+{
+    margin-top: 20px;
+}
+th,td{
+    border-radius: 0px;
+    border: 1px solid black;
+   
+}
+th{
+    background-color: yellowgreen;
+}
+td{
+    border-color: rgb(11, 11, 12);
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+table
+{
+    width: 100%;
+}
+tr{
+    text-align: center;
+}
+#signUpLink
+{
+    position: absolute;
+    top:17px;
+    right: 50px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 7px;
+    
+}
